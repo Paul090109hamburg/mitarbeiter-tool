@@ -1,6 +1,21 @@
 # mitarbeiter-tool
 
-This template should help get you started developing with Vue 3 in Vite.
+Wir benutzen im Projekt HTML, CSS, JavaScript (auch JS genannt) und TypeScript. Außerdem das Framework Vue.js. 
+
+Als erstes brauchtst du NodeJS. Hier der Link zum Download [https://nodejs.org](https://nodejs.org). NodeJS ist die Programmiersprache JavaScript wenn sie außerhalb vom Web-Browser verwendet wird.  
+
+Um den Code zu bearbeiten, brauchst du einen Editor. Du kannst kostenlos Visual Studio Code von Mircosoft verwenden. Hier der Link zum download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Um das Projekt zu starten, öffne das Terminal ("Eingabeaufforderung") und gehen in deinen Projektordner. Das kannst Du mit dem Befehl `cd ordnername` bzw. `cd ..` machen.
+
+Im Projektodner musst du als erstes deine Projektabhängigkeiten installieren. Tippe dazu `npm i` ein. Das kann kurz dauern.
+
+Tippe dann `npm run dev`. Nach kurzer Zeit bekommst du eine URL angezeigt. Meist das Word "localhost" und eine Zahl wie z.B. `localhost:3000`. Kopiere diese URL in den Webbrowser und du siehst deine Seite. 
+
+
+
+
+
 
 ## Recommended IDE Setup
 
